@@ -45,15 +45,24 @@ I'm currently a <strong>Software Engineer</strong> and <strong>.NET Backend Deve
 <details>
 <summary>Explore</summary>
 
-<li><strong>🛒 TechXpress</strong> — E-Commerce platform built with ASP.NET Core, Identity, Repository Pattern, Unit of Work, and Stripe Integration.</li>
+<li>
+<strong>🎓 Doctor Platform</strong> — A comprehensive educational platform that enables students to access courses, lectures, assignments, and academic resources through a modern and scalable architecture built with ASP.NET Core.
+</li>
 
-<li><strong>🌐 Portfolio Website</strong> — Personal portfolio showcasing my skills, projects, and software engineering journey.</li>
+<li>
+<strong>🗺️ Smart Guide Egypt</strong> — Graduation project designed to help users explore Egypt's landmarks, tourist attractions, and cultural destinations through an interactive smart guidance system.
+</li>
 
-<li><strong>📚 Library Management System</strong> — OOP-based application for managing library operations.</li>
+<li>
+<strong>🛒 TechXpress</strong> — E-Commerce platform built with ASP.NET Core, Identity, Repository Pattern, Unit of Work, and Stripe Integration.
+</li>
 
-<li><strong>🎓 Student Affairs System</strong> — Academic management system for handling student services and administration.</li>
+<li>
+<strong>🌐 Portfolio Website</strong> — Personal portfolio showcasing my skills, projects, and software engineering journey.
+</li>
 
 </details>
+
 
 <h2>🚀 Some Tools I Use</h2>
 
